@@ -20,3 +20,8 @@ TODO (for whole project)
 - Take existing circuit and turn into PCB.
 - Assemble and Install PCB.
 - Make really cool slides and video
+---
+Parts
+
+MCU - Low-power, wireless if possible, **LIGHT**
+IMU - <$30, idk like just good i guess
